@@ -1,0 +1,5 @@
+ex05 pretend you're writing in C, use for loops, not list built-ins, this is a unclear from the instructions, especially since the reference stuff at the end all points to the built-ins.
+ex05 part 1 try not to destroy the input list
+ex05 part 2 don't use len, use custom_len
+ex05 part 2 can use range
+ex05 part 2 no slicing
